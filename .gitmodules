@@ -1,0 +1,3 @@
+[submodule "libmp3lame-CMAKE"]
+	path = libmp3lame-CMAKE
+	url = git@github.com:Iunusov/libmp3lame-CMAKE.git
